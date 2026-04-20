@@ -1,6 +1,6 @@
 # Magical Girl Arkham Project
 
-A collection of ~75 custom investigators for **Arkham Horror: The Card Game**, designed for use with [arkham.build](https://arkham.build).
+A collection of ~75 custom investigators for **Arkham Horror: The Card Game** based on characters from the Magical Girl Raising Project light novel series, designed for use with [arkham.build](https://arkham.build).
 
 ---
 
