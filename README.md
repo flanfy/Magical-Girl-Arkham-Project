@@ -9,7 +9,7 @@ A collection of ~75 custom investigators for **Arkham Horror: The Card Game** ba
 ### Deckbuilding (arkham.build)
 
 Deckbuilding and image gallery
-- In Arkham.build, go to settings -> fan-made content -> import from URL -> paste [https://raw.githubusercontent.com/flanfy/AHLCG-Fathomless-Sea-Investigator-Expansion/refs/heads/main/FathomlessSea.json](https://raw.githubusercontent.com/flanfy/Magical-Girl-Arkham-Project/refs/heads/main/MGRPArkham.json)
+- In Arkham.build, go to settings -> fan-made content -> import from URL -> paste https://raw.githubusercontent.com/flanfy/Magical-Girl-Arkham-Project/refs/heads/main/MGRPArkham.json
 
 The custom investigators will now be available in your arkham.build collection.
 
